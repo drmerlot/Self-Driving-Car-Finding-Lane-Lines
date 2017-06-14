@@ -4,7 +4,7 @@ The Ipython notebook in this repository "P1.ipynb" describes a pipline used to i
 picutres and short videos. A number of functions are used to manually select importnat features of the 
 images which iteratively classify areas of the image as lane lines. 
 **Before**
-![](examples/line-segments-example.jpg=100x100)
+![](examples/line-segments-example.jpg =100x100)
  
  **After**
 ![](test_images/solidWhiteCurve.jpg | width=100)
