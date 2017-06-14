@@ -3,7 +3,11 @@
 The Ipython notebook in this repository "P1.ipynb" describes a pipline used to identify lane lines in still
 picutres and short videos. A number of functions are used to manually select importnat features of the 
 images which iteratively classify areas of the image as lane lines. 
+
 **Before**
+<img src="examples/line-segments-example.jpg" width="100">
+
+
 ![](examples/line-segments-example.jpg =100x100)
  
  **After**
