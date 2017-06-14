@@ -5,13 +5,13 @@ picutres and short videos. A number of functions are used to manually select imp
 images which iteratively classify areas of the image as lane lines. 
 
 **Before**
-<img src="examples/line-segments-example.jpg" width="100">
 
+<img src="examples/line-segments-example.jpg" width="400">
 
-![](examples/line-segments-example.jpg =100x100)
  
  **After**
-![](test_images/solidWhiteCurve.jpg | width=100)
+ 
+<img src="test_images/solidWhiteCurve.jpg" width="400">
 
 Although technically a success, this classifier requires not only manually defined logic, but some pretty "hard" assumptions, the limitations of which are discussed in the conclusion.
 
