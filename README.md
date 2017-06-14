@@ -5,10 +5,10 @@ picutres and short videos. A number of functions are used to manually select imp
 images which iteratively classify areas of the image as lane lines. 
 
 *Before*
- ![](CarND-LaneLines-P1/examples/line-segments-example.jpg)
+![alt text](CarND-LaneLines-P1/examples/line-segments-example.jpg)
  
  *After*
- ![](CarND-LaneLines-P1/test_images/solidWhiteCurve.jpg)
+![alt text](CarND-LaneLines-P1/test_images/solidWhiteCurve.jpg)
 
 Although technically a success, this classifier requires not only manually defined logic, but some pretty "hard" assumptions, the limitations of which are discussed in the conclusion.
 
