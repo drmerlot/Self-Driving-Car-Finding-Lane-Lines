@@ -1,8 +1,8 @@
 # **Finding Lane Lines on the Road** 
 
 The Ipython notebook in this repository "P1.ipynb" describes a pipline used to identify lane lines in still
-picutres and short videos. A number of functions are used to manually select importnat features of the 
-images which iteratively classify areas of the image as lane lines. 
+picutres and short videos. A number of functions are used to manually select important features of the 
+images which through iterative application classify areas as lane lines. 
 
 **Before**
 
