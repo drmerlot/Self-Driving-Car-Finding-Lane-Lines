@@ -6,13 +6,13 @@ images which iteratively classify areas of the image as lane lines.
 
 **Before**
 
-<img src="examples/line-segments-example.jpg" width="400">
+<img src="test_images/solidWhiteCurve.jpg" width="400">
 
  
  **After**
  
-<img src="test_images/solidWhiteCurve.jpg" width="400">
+<img src="examples/laneLines_thirdPass.jpg " width="400">
 
 Although technically a success, this classifier requires not only manually defined logic, but some pretty "hard" assumptions, the limitations of which are discussed in the conclusion.
 
-**To sart the notebook go to: https://github.com/andrewsommerlot/CarND-LaneLines-P1/blob/master/P1.ipynb**
+**To start the notebook go to: https://github.com/andrewsommerlot/CarND-LaneLines-P1/blob/master/P1.ipynb**
